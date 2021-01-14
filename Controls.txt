@@ -1,0 +1,2 @@
+WASD + Mouse
+'R' to reset (Generates new layout)

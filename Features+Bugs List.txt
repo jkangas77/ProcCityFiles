@@ -1,0 +1,25 @@
+Current Features:
+-Room layout
+-Hall layout
+-Multiple floors per building
+-Multiple buildings laid out
+-Interactable Doors
+-Basic Elevators
+-Walkways between buildings
+-Windows
+
+Planned Features:
+-Balconies
+-Interior decor
+-Differing Architecture
+-NPCs
+-Optimization
+-Nature details
+-Open rooms
+
+Known bugs:
+-Can sometimes generate house out of bounds
+-Walkways cut through houses
+-Tops of walls have a glitched texture
+-Not all rooms have entrances/exits
+-Houses can generate touching each other
