@@ -18,8 +18,6 @@ Planned Features:
 -Open rooms
 
 Known bugs:
--Can sometimes generate house out of bounds
 -Walkways cut through houses
 -Tops of walls have a glitched texture
 -Not all rooms have entrances/exits
--Houses can generate touching each other
